@@ -1,0 +1,34 @@
+# Source files (dist is published)
+src/
+tsconfig.json
+
+# Development files
+.env
+.env.*
+*.log
+
+# Test files
+tests/
+*.test.ts
+*.spec.ts
+vitest.config.*
+coverage/
+
+# IDE and editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git
+.git/
+.gitignore
+
+# Claude/AI
+.claude/
+
+# Node
+node_modules/
+
+# Build artifacts not needed
+*.tsbuildinfo
