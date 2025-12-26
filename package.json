@@ -1,6 +1,6 @@
 {
   "name": "@erhansiraci/ue-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Comprehensive MCP server for Unreal Engine Remote Control API - Control actors, assets, levels, and editor through Claude and other AI assistants",
   "type": "module",
   "main": "dist/index.js",
